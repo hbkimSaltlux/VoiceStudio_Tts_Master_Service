@@ -1,0 +1,7 @@
+{
+  "voiceIdConf": "C:/Users/hbkim/Desktop/tts_workspace/TTS-ServiceBroker/data/voice.json",
+  "requestLogsDir": "C:/Users/hbkim/Desktop/tts_workspace/TTS-ServiceBroker/data/",
+  "wavToMp3Dir": "C:/Users/hbkim/Desktop/tts_workspace/TTS-ServiceBroker/data/wavToMp3",
+  "cacheDir": "C:/Users/hbkim/Desktop/tts_workspace/TTS-ServiceBroker/cache/",
+  "replaceDict": "C:/Users/hbkim/Desktop/tts_workspace/TTS-ServiceBroker/data/replaceDict.txt"
+}
